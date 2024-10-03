@@ -1,0 +1,16 @@
+{
+  "name": "c-ecmascriptmodules",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "node --watch ./src/app.js",
+    "ticket": "node ./Persona.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
