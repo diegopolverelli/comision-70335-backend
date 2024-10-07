@@ -1,0 +1,16 @@
+{
+  "name": "00-claseanterior",
+  "version": "1.0.0",
+  "main": "07-handsOnLab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.4"
+  }
+}
