@@ -1,0 +1,14 @@
+<h2>Heroes</h2>
+<hr>
+<ul>
+    {{#if nombre}}
+        <h4>Hola {{nombre}}</h4>
+    {{else}}
+        <h4>Hola...!!!</h4>
+    {{/if}}
+    {{#each heroes}}
+        <li>
+            {{name}}
+        </li>
+    {{/each}}
+</ul>
